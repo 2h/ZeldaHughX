@@ -1,0 +1,1431 @@
+fileFormatVersion: 2
+guid: 520463eede883499fb679ed414f90c06
+timeCreated: 1445766903
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ZeldaType_0
+    21300002: ZeldaType_1
+    21300004: ZeldaType_2
+    21300006: ZeldaType_3
+    21300008: ZeldaType_4
+    21300010: ZeldaType_5
+    21300012: ZeldaType_6
+    21300014: ZeldaType_7
+    21300016: ZeldaType_8
+    21300018: ZeldaType_9
+    21300020: ZeldaType_10
+    21300022: ZeldaType_11
+    21300024: ZeldaType_12
+    21300026: ZeldaType_13
+    21300028: ZeldaType_14
+    21300030: ZeldaType_15
+    21300032: ZeldaType_16
+    21300034: ZeldaType_17
+    21300036: ZeldaType_18
+    21300038: ZeldaType_19
+    21300040: ZeldaType_20
+    21300042: ZeldaType_21
+    21300044: ZeldaType_22
+    21300046: ZeldaType_23
+    21300048: ZeldaType_24
+    21300050: ZeldaType_25
+    21300052: ZeldaType_26
+    21300054: ZeldaType_27
+    21300056: ZeldaType_28
+    21300058: ZeldaType_29
+    21300060: ZeldaType_30
+    21300062: ZeldaType_31
+    21300064: ZeldaType_32
+    21300066: ZeldaType_33
+    21300068: ZeldaType_34
+    21300070: ZeldaType_35
+    21300072: ZeldaType_36
+    21300074: ZeldaType_37
+    21300076: ZeldaType_38
+    21300078: ZeldaType_39
+    21300080: ZeldaType_40
+    21300082: ZeldaType_41
+    21300084: ZeldaType_42
+    21300086: ZeldaType_43
+    21300088: ZeldaType_44
+    21300090: ZeldaType_45
+    21300092: ZeldaType_46
+    21300094: ZeldaType_47
+    21300096: ZeldaType_48
+    21300098: ZeldaType_49
+    21300100: ZeldaType_50
+    21300102: ZeldaType_51
+    21300104: ZeldaType_52
+    21300106: ZeldaType_53
+    21300108: ZeldaType_54
+    21300110: ZeldaType_55
+    21300112: ZeldaType_56
+    21300114: ZeldaType_57
+    21300116: ZeldaType_58
+    21300118: ZeldaType_59
+    21300120: ZeldaType_60
+    21300122: ZeldaType_61
+    21300124: ZeldaType_62
+    21300126: ZeldaType_63
+    21300128: ZeldaType_64
+    21300130: ZeldaType_65
+    21300132: ZeldaType_66
+    21300134: ZeldaType_67
+    21300136: ZeldaType_68
+    21300138: ZeldaType_69
+    21300140: ZeldaType_70
+    21300142: ZeldaType_71
+    21300144: ZeldaType_72
+    21300146: ZeldaType_73
+    21300148: ZeldaType_74
+    21300150: ZeldaType_75
+    21300152: ZeldaType_76
+    21300154: ZeldaType_77
+    21300156: ZeldaType_78
+    21300158: ZeldaType_79
+    21300160: ZeldaType_80
+    21300162: ZeldaType_81
+    21300164: ZeldaType_82
+    21300166: ZeldaType_83
+    21300168: ZeldaType_84
+    21300170: ZeldaType_85
+    21300172: ZeldaType_86
+    21300174: ZeldaType_87
+    21300176: ZeldaType_88
+    21300178: ZeldaType_89
+    21300180: ZeldaType_90
+    21300182: ZeldaType_91
+    21300184: ZeldaType_92
+    21300186: ZeldaType_93
+    21300188: ZeldaType_94
+    21300190: ZeldaType_95
+    21300192: ZeldaType_96
+    21300194: ZeldaType_97
+    21300196: ZeldaType_98
+    21300198: ZeldaType_99
+    21300200: ZeldaType_100
+    21300202: ZeldaType_101
+    21300204: ZeldaType_102
+    21300206: ZeldaType_103
+    21300208: ZeldaType_104
+    21300210: ZeldaType_105
+    21300212: ZeldaType_106
+    21300214: ZeldaType_107
+    21300216: ZeldaType_108
+    21300218: ZeldaType_109
+    21300220: ZeldaType_110
+    21300222: ZeldaType_111
+    21300224: ZeldaType_112
+    21300226: ZeldaType_113
+    21300228: ZeldaType_114
+    21300230: ZeldaType_115
+    21300232: ZeldaType_116
+    21300234: ZeldaType_117
+    21300236: ZeldaType_118
+    21300238: ZeldaType_119
+    21300240: ZeldaType_120
+    21300242: ZeldaType_121
+    21300244: ZeldaType_122
+    21300246: ZeldaType_123
+    21300248: ZeldaType_124
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ZeldaType_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 302
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 302
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 302
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 302
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 302
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 302
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 302
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 302
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 303
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 303
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_10
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 303
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_11
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 303
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_12
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 303
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_13
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 303
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 303
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 303
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 269
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 269
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 269
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 269
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 270
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 270
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 270
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 271
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 271
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 271
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 271
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_27
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 271
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_28
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 271
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_29
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 271
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_30
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 271
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_31
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 271
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 237
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 237
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_34
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 237
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 237
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 237
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_37
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 237
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_38
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 237
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_39
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 237
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_40
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 238
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_41
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 238
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_42
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 238
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_43
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 238
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 238
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_45
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 238
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_46
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 238
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_47
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 238
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 202
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 202
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_50
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 202
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_51
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 202
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_52
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 202
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_53
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 202
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_54
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 202
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_55
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 202
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_56
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 203
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_57
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 203
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_58
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 204
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_59
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 204
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_60
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 204
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_61
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 204
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_62
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 204
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_63
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 204
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_64
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 170
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_65
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 170
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_66
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 170
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_67
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 171
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_68
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 171
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_69
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 171
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_70
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 170
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_71
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 170
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_72
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 170
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_73
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 170
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_74
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 170
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_75
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 170
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_76
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 138
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_77
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 138
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_78
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 138
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_79
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 139
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_80
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 139
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_81
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 140
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_82
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 140
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_83
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 139
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_84
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 139
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_85
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 142
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_86
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 138
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_87
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 138
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_88
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 141
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_89
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 138
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_90
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 102
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_91
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 103
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_92
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 103
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_93
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 104
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_94
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 103
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_95
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 104
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_96
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 104
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_97
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 104
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_98
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 104
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_99
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 104
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_100
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 104
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_101
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 104
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_102
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 66
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_103
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_104
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 63
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_105
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 62
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_106
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 64
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_107
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 60
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_108
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 58
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_109
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 58
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_110
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 57
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_111
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 57
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_112
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 57
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_113
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 27
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_114
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 25
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_115
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 23
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_116
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 21
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_117
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 15
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_118
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 12
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_119
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 17
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_120
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 17
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_121
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 17
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_122
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 17
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_123
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 11
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZeldaType_124
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 9
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
